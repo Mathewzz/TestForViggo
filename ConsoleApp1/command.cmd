@@ -3,3 +3,4 @@ git checkout master
 git pull origin master
 git merge output
 git push origin master
+cmd /k

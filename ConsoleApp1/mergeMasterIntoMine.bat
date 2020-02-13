@@ -1,1 +1,2 @@
 git rebase master
+PAUSE

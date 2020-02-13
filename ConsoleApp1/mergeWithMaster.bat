@@ -5,4 +5,3 @@ git merge %output%
 git push origin master
 git checkout %output%
 git pull origin %output%
-PAUSE

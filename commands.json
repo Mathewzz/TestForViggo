@@ -1,0 +1,9 @@
+{
+  "commands": {
+    "mergeWithMaster": {
+      "fileName": "cmd.exe",
+      "workingDirectory": ".",
+      "arguments": "/c ConsoleApp1\\mergeWithMaster.bat"
+    }
+  }
+}
